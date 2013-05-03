@@ -1,0 +1,8 @@
+{
+    "name": "screenfull.js",
+    "version": "1.0.4",
+    "main": "dist/screenfull.js",
+    "ignore": [ ".jshintrc", "**/*.txt" ],
+    "dependencies": { },
+    "devDependencies": { }
+}
